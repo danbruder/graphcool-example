@@ -1,1 +1,3 @@
 # Graphcool example
+
+Just checking out graphcool...

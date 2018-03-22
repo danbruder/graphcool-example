@@ -19,6 +19,22 @@ types: ./types.graphql
 
 
 functions:
+
+# added by google template: (please uncomment)
+# 
+#   googleAuthentication:
+#     handler:
+#       code:
+#         src: ./src/google/googleAuthentication.ts
+#     type: resolver
+#     schema: ./src/google/googleAuthentication.graphql
+#   loggedInUser:
+#     handler:
+#       code:
+#         src: ./src/google/loggedInUser.ts
+#     type: resolver
+#     schema: ./src/google/loggedInUser.graphql
+
   hello:
     handler:
       code: src/hello.js
